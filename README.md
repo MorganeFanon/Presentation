@@ -6,17 +6,18 @@ About me....
 [Have a look at my LinkedIn account](https://www.linkedin.com/in/morgane-fanon/)
 ## _Currently studying Web Development at Becode_
 
-Hi there, my name is Morgane ! I'm a belgian coming from a small village in the province of Liège. I've been living in Brussels for 11 years now.  just started studying coding at Becode. I'm a creative person whose passions are watching great classics  of cinema, music , taking pictures, and reading.
+Hi there, my name is Morgane ! I'm a belgian coming from a small village in South of Belgium. I've been living in Brussels for 11 years now. I've now been at BeCode for 7 months and I love it !!!
+I'm a creative person who's always happy to learn new skills.
 
 ## 3 most surprising skills about me:
-- I play the piano 
-- I can cook very good "boulets à liégeoise"
-- I can speak Dutch, English and French
+- I play the piano 🎹
+- I can cook very good "boulets à liégeoise". A great culinary specialty of my region! 🍴
+- French is my mothertongue but I can also speak Dutch 🚲 and  English 🎩. I'm also currently learning Italian 🍝
 
 ## 3 things I like the most in this universe: 
-- chilling with my friends 
-- riding my bike 
-- discovering new places and countries
+- chilling with my friends 🍸
+- riding my bike 🚲, running 🏃 and practicing yoga 🙆‍♀️
+- discovering new places and countries 🌅
 
 ## The ojectives I want to achieve as a developer during Becode
 I would like to do my best and test my limits. I think Becode is a great environment to learn about yourself and I hope to discover new skills,  including those related to teamwork and helping others. 
